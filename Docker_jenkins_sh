@@ -1,2 +1,0 @@
-docker run -d --name -aps nimmis/alpine-apache
-docker run -d -p 8888:80 webs
